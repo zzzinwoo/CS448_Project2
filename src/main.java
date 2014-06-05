@@ -13,6 +13,7 @@ public class main {
 		Scanner scan = new Scanner(System.in);
 		String userInput;
 		String [] command;
+		int adfjklsfjd = 10;
 		while(cont){
 			userInput = scan.nextLine();
 			command = userInput.split(" ");
